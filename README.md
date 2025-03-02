@@ -30,6 +30,16 @@ Desenvolvedor backend com foco em Java, Spring Boot, PostgreSQL e Docker para o 
   </a>
 </div>
 
+<h3 align="left">Meus Projetos</h3>
+
+<a href="https://github.com/deboravians/SGB">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deboravians&repo=SGB&theme=dark" />
+</a>   
+
+<a href="https://github.com/Werley-08/SGT">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Werley-08&repo=SGT&theme=dark" />
+</a> 
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Werley-08/Werley-08/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Werley-08/Werley-08/output/github-contribution-grid-snake-dark.svg">
