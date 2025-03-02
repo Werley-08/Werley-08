@@ -1,16 +1,113 @@
-## Hi there 👋
+## 👨‍💻 Werley
 
-<!--
-**Werley-08/Werley-08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Back-End`**
 
-Here are some ideas to get you started:
+Desde cedo, a área de tecnologia sempre despertou meu interesse. Durante o ensino médio, tive a oportunidade de integrar meus estudos com um curso tecnico em informática, o que solidificou ainda mais minha paixão pela área. Esse entusiasmo me levou a ingressar no curso de Engenharia de Software na Universidade Federal do Ceará (UFC), onde estou atualmente focado em meus estudos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🤖 Linguagens e Tecnologias
+<p>
+   <img
+     align="left"
+     alt="JAVA"
+     title="JAVA"
+     width="40px"
+     style="padding-right: 10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+   />
+   <img
+     align="left"
+     alt="SPRING"
+     title="SPRING"
+     width="40px"
+     style="padding-right: 10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
+   />
+   <img
+     align="left"
+     alt="HIBERNATE"
+     title="HIBERNATE"
+     width="40px"
+     style="padding-right: 10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg"
+   />
+   <img
+     align="left"
+     alt="DOCKER"
+     title="DOCKER"
+     width="40px"
+     style="padding-right: 10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
+   />
+   <img
+     align="left"
+     alt="MAVEN"
+     title="MAVEN"
+     width="40px"
+     style="padding-right: 10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg"
+   />
+   <img
+     align="left"
+     alt="POSTGRE"
+     title="POSTGRE"
+     width="40px"
+     style="padding-right: 10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+   />
+   <img
+     align="left"
+     alt="INTELLIJ"
+     title="INTELLIJ"
+     width="40px"
+     style="padding-right: 10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"
+   />
+   <img
+     align="left"
+     alt="C"
+     title="C"
+     width="40px"
+     style="padding-right: 10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
+   />
+   <img
+     align="left"
+     alt="LINUX"
+     title="LINUX"
+     width="40px"
+     style="padding-right: 10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
+   />
+   <img
+     align="left"
+     alt="INSOMNIA"
+     title="INSOMNIA"
+     width="40px"
+     style="padding-right: 10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg"
+   />
+</p>
+
+<br/>
+<br/>
+
+---
+
+### 📊 Estatísticas
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="250" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Werley-08&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+</p>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Werley-08/Werley-08/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Werley-08/Werley-08/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Werley-08/Werley-08/output/github-contribution-grid-snake.svg">
+</picture>
