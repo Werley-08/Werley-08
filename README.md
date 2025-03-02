@@ -21,12 +21,11 @@ Desenvolvedor backend com foco em Java, Spring Boot, PostgreSQL e Docker para o 
 
 <h3 align="left">Tecnologias e Ferramentas</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,maven,docker,hibernate,c,github&theme=dark&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,maven,docker,c,github&theme=dark&perline=10)](https://skillicons.dev)
 
 #
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Werley-08&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 #
 
