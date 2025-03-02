@@ -1,5 +1,11 @@
 ## 👨‍💻 Werley
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem+vindo+ao+meu+perfil!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
+
 **`Desenvolvedor Back-End`**
 
 Desde cedo, a área de tecnologia sempre despertou meu interesse. Durante o ensino médio, tive a oportunidade de integrar meus estudos com um curso tecnico em informática, o que solidificou ainda mais minha paixão pela área. Esse entusiasmo me levou a ingressar no curso de Engenharia de Software na Universidade Federal do Ceará (UFC), onde estou atualmente focado em meus estudos.
@@ -100,7 +106,7 @@ Desde cedo, a área de tecnologia sempre despertou meu interesse. Durante o ensi
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="250" 
+    height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Werley-08&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
