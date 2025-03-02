@@ -33,7 +33,7 @@ Desenvolvedor backend com foco em Java, Spring Boot, PostgreSQL e Docker para o 
 <div style="text-align: center;" align="center">
   <h3>* Estatísticas do GitHub *</h3>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Werley-08&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=15e5a6&text_color=FFF&border_radius=3&border_color=15e5a6c&icon_color=15e5a6&locale=pt-br">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Werley-08&line_height=10&card_width=290&hide_progress=true&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=15e5a6&hide=html,scss,less&bg_color=000&text_color=15e5a6&border_radius=3&border_color=15e5a6&count_private=true&locale=pt-br">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Werley-08&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=15e5a6&hide=html,scss,less&bg_color=000&text_color=15e5a6&border_radius=3&border_color=15e5a6&count_private=true&locale=pt-br">
 </div>
 
 #
