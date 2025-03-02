@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=15e5a6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem+vindo+ao+meu+perfil!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=15e5a6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+BEM+VINDO+AO+MEU+PERFIL!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
 
@@ -45,6 +45,8 @@ Desenvolvedor backend com foco em Java, Spring Boot, PostgreSQL e Docker para o 
 
 #
 
+<div style="text-align: center;" align="center">
+  <h3>* Meus Projetos *</h3>
 <a href="https://github.com/deboravians/SGB">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deboravians&repo=SGB&theme=dark" />
 </a>   
@@ -52,5 +54,6 @@ Desenvolvedor backend com foco em Java, Spring Boot, PostgreSQL e Docker para o 
 <a href="https://github.com/Werley-08/SGT">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Werley-08&repo=SGT&theme=dark" />
 </a> 
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=15e5a6&height=120&section=footer"/>
