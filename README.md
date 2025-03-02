@@ -17,7 +17,7 @@ Desenvolvedor backend com foco em Java, Spring Boot, PostgreSQL e Docker para o 
 
 <h3 align="left">Tecnologias e Ferramentas</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,linux,maven,docker,hibernate,c,github&theme=dark&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,maven,docker,hibernate,c,github&theme=dark&perline=10)](https://skillicons.dev)
 
 
 #
