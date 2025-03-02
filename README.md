@@ -45,14 +45,31 @@ Desenvolvedor backend com foco em Java, Spring Boot, PostgreSQL e Docker para o 
 
 #
 
-<div style="text-align: center;" align="center">
+<div style="text-align: center;">
   <h3>* Meus Projetos *</h3>
-<a href="https://github.com/deboravians/SGB">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deboravians&repo=SGB&theme=dark" />
-</a>   
-<a href="https://github.com/Werley-08/SGT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Werley-08&repo=SGT&theme=dark" />
-</a>   
+  <table align="center">
+    <tr>
+      <td>
+        <a href="https://github.com/deboravians/SGB">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=deboravians&repo=SGB&theme=dark" />
+        </a>
+      </td>
+      <td width="30"></td> <!-- Espaçamento entre os cards -->
+      <td>
+        <a href="https://github.com/Werley-08/SGE">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Werley-08&repo=SGE&theme=dark" />
+        </a>
+      </td>
+    </tr>
+    <tr height="30"></tr> <!-- Espaçamento entre as linhas -->
+    <tr>
+      <td colspan="3" align="center">
+        <a href="https://github.com/Werley-08/SGT">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Werley-08&repo=SGT&theme=dark" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=15e5a6&height=120&section=footer"/>
