@@ -70,6 +70,14 @@ Desenvolvedor backend com foco em Java, Spring Boot, PostgreSQL e Docker para o 
         </a>
       </td>
     </tr>
+    <tr height="30"></tr> <!-- Espaçamento entre as linhas -->
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Werley-08/ecommerce-api">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Werley-08&repo=ecommerce-api&theme=dark" />
+        </a>
+      </td>
+    </tr>
   </table>
 </div>
 
