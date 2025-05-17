@@ -37,48 +37,54 @@ Desenvolvedor backend com foco em Java, Spring Boot, PostgreSQL e Docker para o 
 
 #
 
-<div style="text-align: center;" align="center">
-  <h3>------- Meus Projetos -------</h3>
-</div>
+<div align="center">
+  <h3>------ Meus Projetos ------</h3>
 
-<div style="text-align: center;">
-  <table align="center">
-    <tr>
-      <td>
-        <a href="https://github.com/deboravians/SGB">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=deboravians&repo=SGB&theme=dark" />
-        </a>
-      </td>
-      <td width="30"></td> <!-- Espaçamento entre os cards -->
-      <td>
-        <a href="https://github.com/Werley-08/SGE">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Werley-08&repo=SGE&theme=dark" />
-        </a>
-      </td>
-    </tr>
-    <tr height="30"></tr> <!-- Espaçamento entre as linhas -->
-    <tr>
-      <td align="center">
-        <a href="https://github.com/Werley-08/SGT">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Werley-08&repo=SGT&theme=dark" />
-        </a>
-      </td>
-      <td width="30"></td> <!-- Espaçamento entre os cards -->
-      <td>
-        <a href="https://github.com/Werley-08/design_patter">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Werley-08&repo=design_patter&theme=dark" />
-        </a>
-      </td>
-    </tr>
-    <tr height="30"></tr> <!-- Espaçamento entre as linhas -->
-    <tr>
-      <td align="center">
-        <a href="https://github.com/Werley-08/ecommerce-api">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Werley-08&repo=ecommerce-api&theme=dark" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <center>
+    <table>
+      <tr>
+        <td>
+          <a href="https://github.com/Werley-08/SISO">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Werley-08&repo=SISO&theme=dark" />
+          </a>
+        </td>
+        <td width="30"></td>
+        <td>
+          <a href="https://github.com/Werley-08/ecommerce-api">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Werley-08&repo=ecommerce-api&theme=dark" />
+          </a>
+        </td>
+      </tr>
+      <tr height="30"></tr>
+      <tr>
+        <td>
+          <a href="https://github.com/deboravians/SGB">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=deboravians&repo=SGB&theme=dark" />
+          </a>
+        </td>
+        <td width="30"></td>
+        <td>
+          <a href="https://github.com/Werley-08/SGE">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Werley-08&repo=SGE&theme=dark" />
+          </a>
+        </td>
+      </tr>
+      <tr height="30"></tr>
+      <tr>
+        <td>
+          <a href="https://github.com/Werley-08/SGT">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Werley-08&repo=SGT&theme=dark" />
+          </a>
+        </td>
+        <td width="30"></td>
+        <td>
+          <a href="https://github.com/Werley-08/design_patter">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Werley-08&repo=design_patter&theme=dark" />
+          </a>
+        </td>
+      </tr>
+    </table>
+  </center>
 </div>
 
 #
