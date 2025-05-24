@@ -21,7 +21,7 @@ Desenvolvedor fullstack com maior foco no back-end, utilizando Java e Spring Boo
 
 <h3 align="left">Tecnologias e Ferramentas</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,react,html,css,docker,c,github&theme=dark&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,react,html,css,docker,github&theme=dark&perline=10)](https://skillicons.dev)
 
 #
 
