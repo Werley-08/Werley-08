@@ -8,9 +8,9 @@
 
 #
 
-**`Desenvolvedor Back-End`**
+**`Desenvolvedor Full-Stack`**
 
-Desenvolvedor backend com foco em Java, Spring Boot, PostgreSQL e Docker para o desenvolvimento de aplicações escaláveis, com conhecimentos em construção de APIs restful com segurança e conteinerização.
+Desenvolvedor fullstack com maior foco no back-end, utilizando Java e Spring Boot para a construção de aplicações escaláveis e seguras. Atualmente, estou expandindo meus conhecimentos no front-end com React.js, buscando entregar soluções completas de ponta a ponta.
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
@@ -21,7 +21,7 @@ Desenvolvedor backend com foco em Java, Spring Boot, PostgreSQL e Docker para o 
 
 <h3 align="left">Tecnologias e Ferramentas</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,maven,docker,c,github&theme=dark&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,react,html,css,docker,c,github&theme=dark&perline=10)](https://skillicons.dev)
 
 #
 
