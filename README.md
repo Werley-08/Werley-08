@@ -27,58 +27,6 @@ Desenvolvedor fullstack com maior foco no back-end, utilizando Java e Spring Boo
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Werley-08&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center">
-  <h3>------ Meus Projetos ------</h3>
-
-  <center>
-    <table>
-      <tr>
-        <td>
-          <a href="https://github.com/Werley-08/SISO">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Werley-08&repo=SISO&theme=dark" />
-          </a>
-        </td>
-        <td width="30"></td>
-        <td>
-          <a href="https://github.com/Werley-08/ecommerce-api">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Werley-08&repo=ecommerce-api&theme=dark" />
-          </a>
-        </td>
-      </tr>
-      <tr height="30"></tr>
-      <tr>
-        <td>
-          <a href="https://github.com/deboravians/SGB">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=deboravians&repo=SGB&theme=dark" />
-          </a>
-        </td>
-        <td width="30"></td>
-        <td>
-          <a href="https://github.com/Werley-08/SGE">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Werley-08&repo=SGE&theme=dark" />
-          </a>
-        </td>
-      </tr>
-      <tr height="30"></tr>
-      <tr>
-        <td>
-          <a href="https://github.com/Werley-08/SGT">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Werley-08&repo=SGT&theme=dark" />
-          </a>
-        </td>
-        <td width="30"></td>
-        <td>
-          <a href="https://github.com/Werley-08/design_patter">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Werley-08&repo=design_patter&theme=dark" />
-          </a>
-        </td>
-      </tr>
-    </table>
-  </center>
-</div>
-
-#
-
 <div style="text-align: center;" align="center">
 <h3>------- Minhas Contribuições -------</h3>
 <picture align="center">
