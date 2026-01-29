@@ -8,7 +8,7 @@
 
 #
 
-**`Engenheiro de Software`**
+**`Software Engineer`**
 
 Concepção e construção de soluções de software, envolvendo análise, arquitetura, implementação e evolução de sistemas.
 
