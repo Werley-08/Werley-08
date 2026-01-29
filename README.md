@@ -10,7 +10,7 @@
 
 **`Desenvolvedor Full-Stack`**
 
-Desenvolvedor fullstack com maior foco no back-end, utilizando Java e Spring Boot para a construção de aplicações escaláveis e seguras. Atualmente, estou expandindo meus conhecimentos no front-end com React.js, buscando entregar soluções completas de ponta a ponta.
+Desenvolvedor fullstack com maior foco no back-end. Atualmente, estou expandindo meus conhecimentos no front-end, buscando entregar soluções completas de ponta a ponta.
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
@@ -21,7 +21,7 @@ Desenvolvedor fullstack com maior foco no back-end, utilizando Java e Spring Boo
 
 <h3 align="left">Tecnologias e Ferramentas</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,react,html,css,docker,github&theme=dark&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,react,docker,github,kotlin&theme=dark&perline=10)](https://skillicons.dev)
 
 #
 
