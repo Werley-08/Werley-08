@@ -8,9 +8,9 @@
 
 #
 
-**`Desenvolvedor Full-Stack`**
+**`Engenheiro de Software`**
 
-Desenvolvedor fullstack com maior foco no back-end. Atualmente, estou expandindo meus conhecimentos no front-end, buscando entregar soluções completas de ponta a ponta.
+Concepção e construção de soluções de software, envolvendo análise, arquitetura, implementação e evolução de sistemas.
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
